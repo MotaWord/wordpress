@@ -1,0 +1,192 @@
+# Copyright (C) 2015 MotaWord
+# This file is distributed under the same license as the MotaWord package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MotaWord 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/motaword\n"
+"POT-Creation-Date: 2015-10-13 16:54:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-10-13 16:54:32+00:00\n"
+"Last-Translator: Oytun Tez <oytun@motaword.com>\n"
+"Language-Team: MotaWord <info@motaword.com>\n"
+
+#. #-#-#-#-#  motaword.pot (MotaWord 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-motaword-admin.php:151 admin/class-motaword-admin.php:1143
+msgid "MotaWord"
+msgstr ""
+
+#: admin/class-motaword-admin.php:263 admin/class-motaword-admin.php:361
+#: admin/class-motaword-admin.php:364
+msgid "Save this post in order to send to MotaWord for translation."
+msgstr ""
+
+#: admin/class-motaword-admin.php:325 admin/class-motaword-admin.php:986
+msgid "%1$s to %2$s"
+msgstr ""
+
+#: admin/class-motaword-admin.php:330
+msgid "Send to MotaWord"
+msgstr ""
+
+#: admin/class-motaword-admin.php:353
+msgid "[Translating...]"
+msgstr ""
+
+#: admin/class-motaword-admin.php:356
+msgid "%s [translating]"
+msgstr ""
+
+#: admin/class-motaword-admin.php:377
+msgid ""
+"MotaWord API credentials that you provided are wrong. Please check them on "
+"<a href=\"%s\">settings page</a>."
+msgstr ""
+
+#: admin/class-motaword-admin.php:384
+msgid ""
+"We encountered an error while processing your request. Please try again or "
+"contact us at info@motaword.com."
+msgstr ""
+
+#: admin/class-motaword-admin.php:508
+msgid "From %1$s to %2$s"
+msgstr ""
+
+#: admin/class-motaword-admin.php:515
+msgid "Completed."
+msgstr ""
+
+#: admin/class-motaword-admin.php:519
+msgid "Translation progress: <strong>%d</strong>%%"
+msgstr ""
+
+#: admin/class-motaword-admin.php:525
+msgid ""
+"Translated and currently being proofread: <strong>%d</strong>%% completed."
+msgstr ""
+
+#: admin/class-motaword-admin.php:529
+msgid "Completed. Waiting to be finalized."
+msgstr ""
+
+#: admin/class-motaword-admin.php:536
+msgid "Translation by <a href=\"%s\" target=\"_blank\">MotaWord</a>"
+msgstr ""
+
+#: admin/class-motaword-admin.php:778
+msgid ""
+"An error occurred while submitting your posts to MotaWord for a quote: %s"
+msgstr ""
+
+#: admin/class-motaword-admin.php:797
+msgid ""
+"We can translate this WordPress post for just <strong>%1$s%2$s</strong>."
+msgid_plural ""
+"We can translate these WordPress posts for just <strong>%1$s%2$s</strong>."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-motaword-admin.php:808
+msgid "OUR QUOTE IS BASED ON <strong>%1$d</strong> WORDS."
+msgid_plural ""
+"OUR QUOTE IS BASED ON <strong>%1$d</strong> WORDS FOR %2$d POSTS."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-motaword-admin.php:828
+msgid "Start Project"
+msgstr ""
+
+#: admin/class-motaword-admin.php:831 admin/class-motaword-admin.php:994
+#: admin/class-motaword-admin.php:1126
+msgid ""
+"Have questions? <a href=\"https://www.motaword.com/contact\" target=\"_blank"
+"\">We are one email away.</a>"
+msgstr ""
+
+#: admin/class-motaword-admin.php:899
+msgid ""
+"Source languages of the posts you selected don't match. Please select the "
+"posts with the same language."
+msgstr ""
+
+#: admin/class-motaword-admin.php:930
+msgid "You have selected %d post."
+msgid_plural "You have selected %d posts."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-motaword-admin.php:939
+msgid ""
+"To get your quote, please select your translation languages and continue."
+msgstr ""
+
+#: admin/class-motaword-admin.php:991
+msgid "Continue to get a quote"
+msgstr ""
+
+#: admin/class-motaword-admin.php:1103
+msgid "Your post has been submitted for translation!"
+msgid_plural "Your posts have been submitted for translation!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-motaword-admin.php:1110
+msgid ""
+"You can track its progress on post editing screen or <a href=\"https://www."
+"motaword.com/projects\" target=\"_blank\">your MotaWord dashboard</a>."
+msgid_plural ""
+"You can track their progress on post editing screen or <a href=\"https://www."
+"motaword.com/projects\" target=\"_blank\">your MotaWord dashboard</a>."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-motaword-admin.php:1180
+msgid "API Client ID:"
+msgstr ""
+
+#: admin/class-motaword-admin.php:1185
+msgid "API Client Secret:"
+msgstr ""
+
+#: admin/class-motaword-admin.php:1190
+msgid "Sandbox mode:"
+msgstr ""
+
+#: admin/class-motaword-admin.php:1197
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-motaword-admin.php:1322
+msgid "Translation of this post was completed."
+msgstr ""
+
+#: admin/class-motaword-admin.php:1330
+msgid ""
+"We are still working on the translation of this post.\n"
+"\n"
+"Translation: %1$d%%\n"
+"Proofreading: %2$d%%"
+msgstr ""
+
+#: admin/class-motaword-admin.php:1359
+msgid "MotaWord Summary"
+msgstr ""
+
+#. #-#-#-#-#  motaword.pot (MotaWord 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  motaword.pot (MotaWord 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.motaword.com/developer"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin is for MotaWord.com registered users."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Oytun Tez <oytun@motaword.com>"
+msgstr ""

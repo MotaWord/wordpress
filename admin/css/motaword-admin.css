@@ -1,0 +1,56 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#mw_start_link {
+    margin-top: 10px;
+}
+
+.mw_warning {
+    background-color: #fcf8e3;
+    color: #c09853;
+    border-color: #fbeed5;
+    padding: 8px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+}
+
+.mw_error {
+    background-color: #f2dede;
+    color: #b94a48;
+    border-color: #eed3d7;
+    padding: 8px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+}
+
+.mw_container {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.mw_submit {
+    width: 340px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 20px 60px;
+    border-radius: 7px;
+    color: white;
+    background: #00AF43 url(https://dentycj2qhk72.cloudfront.net/new/images/droop.png) no-repeat center -3px;
+    background-position: center -15px \0/;
+    background-size: 43%;
+    line-height: 25px;
+    margin-top: 40px;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+
+.mw_logo {
+    width: 400px;
+}
+
+#TB_ajaxContent {
+    width: 96% !important;
+}
